@@ -43,6 +43,12 @@ footer {
   width: 100%;
   margin: 4px;
 }
+.portfolioPic4 {
+  background-image: url("project2.jpg");
+  height: 100px;
+  width: 100%;
+  margin: 4px;
+}
 .projectText {
   text-align: center;
   background-color: grey;
